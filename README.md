@@ -56,7 +56,7 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 15px;/>
   </a>
   
-  <a href="mailto:aungminko951357@gmail.com">
+  <a href="mailto:aungminko951357@gmail.com" target="_blank">
     <img src="https://i.pinimg.com/736x/a1/d1/4b/a1d14ba7881740c8c3e428a75132a2ae.jpg" width="40" height="40" style="margin-right: 15px;/>
   </a>
 </p>  
