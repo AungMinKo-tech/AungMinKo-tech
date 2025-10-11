@@ -57,7 +57,7 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
   </a>
   
   <a href="mailto:aungminko951357@gmail.com">
-    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" style="margin-right: 15px;/>
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" style="margin-right: 15px;"/>
   </a>
 </p>  
 
