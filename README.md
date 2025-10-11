@@ -29,9 +29,9 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
 #### Databases
 
 <p align="left">
-  <img src="https://devicon-website.vercel.app/api/sqlite/original-wordmark.svg" alt="SQLite" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="MySQL" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" alt="Postgres" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="SQLite" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" alt="MySQL" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="Postgres" width="50" height="50"></img>
 </p>
 
 ### Tools
@@ -49,7 +49,7 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
 ###  How to reach me
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=61571911991566&mibexid=wwXlfr&mibexit=wwXlfr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://devicon-website.vercel.app/api/facebook/original.svg" width="40" height="40" style="margin-right: 15px;"/>
   </a>
   
   <a href="https://www.linkedin.com/in/aung-min-ko-20b317346" target="_blank">
