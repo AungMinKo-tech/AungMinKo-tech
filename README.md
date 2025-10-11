@@ -53,10 +53,10 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
   </a>
   
   <a href="https://www.linkedin.com/in/aung-min-ko-20b317346" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 15px;/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 15px;"/>
   </a>
   
-  <a href="mailto:aungminko951357@gmail.com">
+  <a href="mailto:aungminko951357@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" style="margin-right: 15px;"/>
   </a>
 </p>  
