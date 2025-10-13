@@ -4,7 +4,7 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
 
 ---
 
-###  About Me
+###  👨‍🦱 About Me
  -  💻 Backend Developer specialized in PHP & Laravel.  
  - 🚀 Always improving code quality and project structure.  
 
@@ -46,7 +46,7 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
  
 ---
 
-###  How to reach me
+### 🌐 How to reach me
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=61571911991566&mibexid=wwXlfr&mibexit=wwXlfr" target="_blank">
     <img src="https://devicon-website.vercel.app/api/facebook/original.svg" width="40" height="40" style="margin-right: 15px;"/>
