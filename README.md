@@ -20,13 +20,11 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/jquery/original.svg" alt="JQuery" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="Bootstrap" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/vuejs/original.svg" alt="Vue.js" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/java/original.svg" alt="Java" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="PHP" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" alt="Laravel" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="Node" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/express/original.svg" alt="Express" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/adonisjs/original.svg" alt="Express" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/adonisjs/original.svg" alt="Adonis" width="50" height="50"></img>
 </p>
 
 #### Databases
