@@ -18,7 +18,6 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="Html" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="Css" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/jquery/original.svg" alt="JQuery" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="Bootstrap" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="PHP" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" alt="Laravel" width="50" height="50"></img>
