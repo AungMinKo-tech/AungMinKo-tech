@@ -1,11 +1,12 @@
 # 👋 Hello! I'm Aung Min Ko from Myanmar <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" width="50" height="50"></img>
 
-I'm a passionate Backend Developer who loves building clean, secure and scalable APIs.
+I’m a Junior Web Developer with a strong passion for web development and a growing skill set in both frontend and backend technologies. I’ve been learning and building projects using HTML, CSS, JavaScript, React for the frontend and PHP with Laravel for the backend.
 
 ---
 
 ###  👨‍🦱 About Me
- -  💻 Backend Developer specialized in PHP & Laravel.  
+ -  💻 Frontend specialized in React.
+ -  💻 Backend specialized in PHP & Laravel.  
  - 🚀 Always improving code quality and project structure.  
 
 ---
@@ -17,13 +18,14 @@ I'm a passionate Backend Developer who loves building clean, secure and scalable
 <p align="left">
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="Html" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="Css" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="Bootstrap" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="Tailwind" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="PHP" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" alt="Laravel" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="Node" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/express/original.svg" alt="Express" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/adonisjs/original.svg" alt="Adonis" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23716AFF" alt="Express" width="50" height="50"></img>
 </p>
 
 #### Databases
