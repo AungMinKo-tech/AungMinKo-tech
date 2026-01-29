@@ -1,68 +1,61 @@
-# 👋 Hello! I'm Aung Min Ko from Myanmar <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" width="50" height="50"></img>
+# <p align="center">Hi there! I'm Aung Min Ko 👋</p>
 
-I’m a Junior Web Developer with a strong passion for web development and a growing skill set in both frontend and backend technologies. I’ve been learning and building projects using HTML, CSS, JavaScript, React for the frontend and PHP with Laravel for the backend.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;React+Enthusiast;Laravel+Backend+Dev;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Myanmar-red?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_To-Work-green?style=for-the-badge" />
+</p>
 
 ---
 
-###  👨‍🦱 About Me
- -  💻 Frontend specialized in React.
- -  💻 Backend specialized in PHP & Laravel.  
- - 🚀 Always improving code quality and project structure.  
+### 👨‍💻 About Me
+I’m a **Junior Web Developer** from Myanmar 🇲🇲 with a strong passion for building clean, functional, and scalable web applications. Currently focusing on mastering the **TALL/MERN** stacks.
+
+- 🔭 I’m currently working on building full-stack projects.
+- 🌱 I’m currently learning **Advanced Laravel & Node.js**.
+- 🚀 I love optimizing code quality and project structures.
+- 💬 Ask me about **React, PHP, or Laravel**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages & Frameworks
-
+#### 🌐 Frontend & Backend
 <p align="left">
-  <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="Html" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="Css" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="Bootstrap" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="Tailwind" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="React" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="PHP" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" alt="Laravel" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="Node" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23716AFF" alt="Express" width="50" height="50"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express" />
 </p>
 
-#### Databases
-
+#### 💾 Databases & Tools
 <p align="left">
-  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="SQLite" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" alt="MySQL" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="Postgres" width="50" height="50"></img>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,postman,vscode" />
 </p>
 
-### Tools
-
-<p align="left">
-  <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/github/original.svg" alt="GitHub" width="50" height="50"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
-</svg>
-
-</p>
- 
 ---
 
-### 🌐 Contact Me
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AungMinKo-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AungMinKo-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=61571911991566&mibexid=wwXlfr&mibexit=wwXlfr" target="_blank">
-    <img src="https://devicon-website.vercel.app/api/facebook/original.svg" width="40" height="40" style="margin-right: 15px;"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/aung-min-ko-20b317346" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="mailto:aungminko.dev@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" style="margin-right: 15px;"/>
+  <a href="https://www.facebook.com/profile.php?id=61571911991566" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>  
+  <a href="mailto:aungminko.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
