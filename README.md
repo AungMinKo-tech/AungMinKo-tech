@@ -30,7 +30,7 @@ I’m a **Junior Web Developer** from Myanmar 🇲🇲 with a strong passion for
 
 #### 💾 Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo,git,github,postman,vscode" />
 </p>
 
 ---
