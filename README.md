@@ -1,7 +1,7 @@
 # <p align="center">Hi there! I'm Aung Min Ko 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;React+Enthusiast;Laravel+Backend+Developer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
