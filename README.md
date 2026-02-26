@@ -1,24 +1,24 @@
 # <p align="center">Hi there! I'm Aung Min Ko 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;Currently+working+at+Monisoft+Development+System" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Myanmar-red?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_To-Work-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently_Working-Monisoft_Development_System-blue?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a **Junior Web Developer** from Myanmar 🇲🇲 with a strong passion for building clean, functional, and scalable web applications. Currently focusing on mastering the **TALL/MERN** stacks.
+I’m a **Junior Web Developer** from Myanmar 🇲🇲 with a strong passion for building clean, functional, and scalable web applications.  
 
-- 🔭 I’m currently working on building full-stack projects.
-- 🌱 I’m currently learning **Advanced Laravel & Node.js**.
-- 🚀 I love optimizing code quality and project structures.
-- 💬 Ask me about **React, PHP, or Laravel**.
-
+- 💼 Currently working at **Monisoft Development System**.
+- 🔭 Building real-world full-stack applications.
+- 🌱 Learning **Advanced Laravel, Node.js & System Design**.
+- 🚀 Passionate about clean architecture & scalable systems.
+- 💬 Ask me about **React, PHP, Laravel, or REST APIs**.
 ---
 
 ### 🛠️ Tech Stack
