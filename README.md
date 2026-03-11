@@ -26,6 +26,7 @@ I’m a **Junior Web Developer** from Myanmar 🇲🇲 with a strong passion for
 #### 🌐 Frontend & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="20" />
 </p>
 
 #### 💾 Databases & Tools
