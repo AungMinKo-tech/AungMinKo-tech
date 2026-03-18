@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a **Junior Web Developer** from Myanmar 🇲🇲 with a strong passion for building clean, functional, and scalable web applications.  
+I’m a **Junior Web Developer** from Myanmar with a strong passion for building clean, functional, and scalable web applications.  
 
 - 💼 Currently working at **Monisoft Development System**.
 - 🔭 Building real-world full-stack applications.
@@ -31,7 +31,7 @@ I’m a **Junior Web Developer** from Myanmar 🇲🇲 with a strong passion for
 
 #### 💾 Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo,git,github,postman" />
 </p>
 
 ---
