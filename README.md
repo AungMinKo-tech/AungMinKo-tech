@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a **Junior Web Developer** from Myanmar with a strong passion for building clean, functional, and scalable web applications.  
+I’m a **Junior Fullstack Developer** from Myanmar with a strong passion for building clean, functional, and scalable web applications.  
 
 - 💼 Currently working at **Monisoft Development System**.
 - 🔭 Building real-world full-stack applications.
