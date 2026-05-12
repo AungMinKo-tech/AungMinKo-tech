@@ -25,8 +25,7 @@ I’m a **Junior Fullstack Developer** from Myanmar with a strong passion for bu
 
 #### 🌐 Frontend & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="20" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express,adonis" />
 </p>
 
 #### 💾 Databases & Tools
